@@ -1,1 +1,2 @@
-console.log('✨ This is a example log.');
+const player = 'Lucius';
+console.log(`Welcome ${player} to App`);
